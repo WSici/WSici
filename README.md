@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @WSici
 - 👀 I’m interested in a career in cybersecurity
-- 🌱 I’m currently finishing up a bootcamp learning about cybersecurity
+- 🌱 I have completed a cybersecurity bootcamp and ready for a career in cybersecurity
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
